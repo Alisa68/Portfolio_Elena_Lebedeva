@@ -37,7 +37,7 @@
    * [Автоматизированное
 тестирование](https://netology.ru/backend/api/user/programs/25529/pdf_certificate)
 
- [```email```](<lebedeva19682@yandex.ru>) 
+ *<lebedeva19682@yandex.ru>* 
  
  [```t.me```](https://t.me/chukocha68)
  
